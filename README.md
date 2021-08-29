@@ -17,6 +17,19 @@
 
 
 
+
+
+- Marco Teprico Tema 16
+
+![Teoria 16 1](https://user-images.githubusercontent.com/84397282/131241799-eb03c9e0-f3fb-4a51-86fa-1bb4af757056.jpg)
+![Teoria 16 2](https://user-images.githubusercontent.com/84397282/131241801-37b8fd0c-cc91-40b1-aa7f-ca6232463a57.jpg)
+![Teoria 16 3](https://user-images.githubusercontent.com/84397282/131241802-76259b59-8ee8-4464-a169-168bc7ecbe40.jpg)
+![Teoria 16 4](https://user-images.githubusercontent.com/84397282/131241803-d4e2ab07-6850-4910-884a-43c535d6c282.jpg)
+![Teoria 16 5](https://user-images.githubusercontent.com/84397282/131241804-c045a620-b2e3-46a7-b8f7-e175e6092180.jpg)
+![Teoria 16 6](https://user-images.githubusercontent.com/84397282/131241805-001a8a94-7567-4c5b-9639-2093da19f5d7.jpg)
+
+
+
 # Resolucion de Problemas
 
 
