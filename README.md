@@ -10,7 +10,7 @@
 
 - Comprender mediante principios del algebra avanzada el funcionamiendo y la nueva aplicacion de las leyes antes estudiadas en circuitos "Cd".
 
-- Implementar las propiedades y conceptos de los numeros complejos en la comprension de fasores.
+- Implementar las propiedades y conceptos de los numeros complejos en la comprension y analisis de fasores.
 
 
 # Marco Teorico
