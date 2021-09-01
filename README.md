@@ -3,10 +3,15 @@
 
 # Objetivos Generales
 
+- Comprender los principios básicos de ca, como la variación de un voltaje o corriente, analizando su forma de onda e identificar las formas de representar y poder manipular estas cantidades al desarrollar métodos de análisis de ca 
+
 - Analizar, circuitos simples de corriente alterna utilizando voltajes y corrientes en funcion del tiempo para tratar de expresar estas fuentes y corrientes como fasores de "ca", utilizando en el analisis de estos circuitos conceptos como ley de Ohm, leyes de Kirchhoff, analisis de mallas y de nodos, las superposiciones y demas asi como se realizaba en "cd" 
 
 
+
 # Objetivos Especificos
+
+- Identificar la  forma de onda en especial la del seno conocida como sinusoidal
 
 - Comprender mediante principios del algebra avanzada el funcionamiendo y la nueva aplicacion de las leyes antes estudiadas en circuitos "Cd".
 
@@ -100,7 +105,7 @@ Ejercicios tema 16
 
 - La relacion entre la representacion grafica de una frecuencia y el uso de numeros imaginarios, nos ayuda a comprender los desfases que puede sufrir una señal con respecto a otra, nos ayudan a realizar operaciones fundamentales entre funciones senos de voltajes y de mas analisis relacionados a las frecuencias de una fuente "cd".
 
-
+- Una vez revisados los capítulos se conoció que una forma más rápida es representar los voltajes y corrientes de ca como fasores, y estos se pueden determinar de forma similar al análisis que se hacía en circuitos de cd, al igual de su relación con la ley de Ohm, las leyes de Kirchhoff y los distintos análisis que se realizaban para determinar voltajes y corrientes  
 
 # Bibliografia
 
