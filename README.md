@@ -72,6 +72,21 @@ Ejercicios del tema 15
 ![Ejercicos 15 7](https://user-images.githubusercontent.com/84397282/131599786-abfcd311-512d-45ae-b32c-907a4893c7ff.jpg)
 ![Ejercicos 15 8](https://user-images.githubusercontent.com/84397282/131599787-9bda2b3d-e752-4424-bdb2-360a6adb9da1.jpg)
 
+![](https://user-images.githubusercontent.com/84998005/131660015-b4207c71-c3d1-4ff8-8025-50456faec945.png)
+
+![](https://user-images.githubusercontent.com/84998005/131660013-383d9176-8c51-468b-a32c-04777e94ad64.png)
+
+![](https://user-images.githubusercontent.com/84998005/131660006-9d046536-5192-479d-bc99-ce8c366b9404.png)
+
+![](https://user-images.githubusercontent.com/84998005/131660003-a6110167-c14d-497f-b9c3-146b9bb42996.png)
+
+![](https://user-images.githubusercontent.com/84998005/131659999-a4697181-6e2b-4b48-92c7-2d6de0489d56.png)
+
+![](https://user-images.githubusercontent.com/84998005/131660036-acfff7a3-1a44-4d60-95a3-298fd7b2624a.png)
+
+![](https://user-images.githubusercontent.com/84998005/131660025-945a0af5-ce1b-44c5-874a-92b55808e9dc.png)
+
+
 
 Ejercicios tema 16
 
