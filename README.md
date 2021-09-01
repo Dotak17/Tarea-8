@@ -15,6 +15,15 @@
 
 # Marco Teorico
 
+Tema 15
+
+
+parte b
+
+![](https://user-images.githubusercontent.com/84998013/131602057-949b242e-c5ff-4f3d-955d-a53d0b9e4870.png)
+
+![](https://user-images.githubusercontent.com/84998013/131602439-9a6344c0-4d01-47fa-b027-99499e4e698e.png)
+
 
 
 
@@ -33,6 +42,20 @@
 # Resolucion de Problemas
 
 Ejercicios del tema 15
+
+![](https://user-images.githubusercontent.com/84998013/131602562-91fa21d0-f1b7-4b3b-b904-c66157b53e09.png)
+
+![](https://user-images.githubusercontent.com/84998013/131602626-6eb77efe-4b95-48bc-af55-873bd8433eeb.png)
+
+![](https://user-images.githubusercontent.com/84998013/131602739-7a5e040f-385e-43d5-8a5c-1f7b15cf68ed.png)
+
+![](https://user-images.githubusercontent.com/84998013/131602786-f4588441-a199-45f5-85d8-666145579b4c.png)
+
+![](https://user-images.githubusercontent.com/84998013/131602821-ecf17cba-bd86-458b-b968-23c1dc6c2ad7.png)
+
+
+
+
 
 ![Ejercicos 15 1](https://user-images.githubusercontent.com/84397282/131599779-7062fc68-ec0b-4dd8-b136-d612b3c87c79.jpg)
 ![Ejercicos 15 2](https://user-images.githubusercontent.com/84397282/131599780-eda42c4c-0a66-4a2b-8a71-3f7e1893d191.jpg)
@@ -53,6 +76,21 @@ Ejercicios tema 16
 ![Ejercicos 16 5](https://user-images.githubusercontent.com/84397282/131600518-25810bc0-1b2f-4252-8b64-1e0782c1ba51.jpg)
 
 
+
+
+
+
+
+
+![](https://user-images.githubusercontent.com/84998013/131602922-225db8aa-7583-4bd0-9c0d-80c5f239fbd4.png)
+
+![](https://user-images.githubusercontent.com/84998013/131603000-bd728af0-87af-43db-bafc-084debd519a2.png)
+
+![](https://user-images.githubusercontent.com/84998013/131603049-d80e1954-f9df-4b58-9ffa-1a372912582d.png)
+
+![](https://user-images.githubusercontent.com/84998013/131603163-de66f135-93ed-447b-bfdf-09877d01e854.png)
+
+![](https://user-images.githubusercontent.com/84998013/131603208-d689b436-283b-4444-b0f4-91f635e2c5c9.png)
 
 # Video
 
