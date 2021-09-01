@@ -22,8 +22,9 @@
 
 Tema 15
 
+![](https://user-images.githubusercontent.com/84998005/131659798-a48a2084-0df7-46f2-9140-05544d372843.png)
 
-parte b
+![](https://user-images.githubusercontent.com/84998005/131659800-6f4a5232-23af-45fb-90e0-ba24ae28bdc6.png)
 
 ![](https://user-images.githubusercontent.com/84998013/131602057-949b242e-c5ff-4f3d-955d-a53d0b9e4870.png)
 
