@@ -46,15 +46,17 @@ Ejercicios del tema 15
 
 Ejercicios tema 16
 
+![Ejercicos 16 1](https://user-images.githubusercontent.com/84397282/131600519-853fb06f-eee0-4214-91cd-0aabc17fb643.jpg)
 ![Ejercicos 16 2](https://user-images.githubusercontent.com/84397282/131600513-07b35828-3f48-428d-aa3a-3bf36685d055.jpg)
 ![Ejercicos 16 3](https://user-images.githubusercontent.com/84397282/131600516-8a40674b-2b17-4e65-8544-709b472ecf3f.jpg)
 ![Ejercicos 16 4](https://user-images.githubusercontent.com/84397282/131600517-4f5557a0-05db-4ee5-93d3-16d112e63232.jpg)
 ![Ejercicos 16 5](https://user-images.githubusercontent.com/84397282/131600518-25810bc0-1b2f-4252-8b64-1e0782c1ba51.jpg)
-![Ejercicos 16 1](https://user-images.githubusercontent.com/84397282/131600519-853fb06f-eee0-4214-91cd-0aabc17fb643.jpg)
+
 
 
 # Video
 
+- https://youtu.be/ZaZV0rnJhfo
 
 # Conclusiones
 
