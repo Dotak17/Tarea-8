@@ -66,7 +66,7 @@ Ejercicios tema 16
 
 # Bibliografia
 
-
+* Robbins, A., & Miller, W. (2013). Circuit analysis:Theory and practice. USA.
 
 
 
