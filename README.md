@@ -32,7 +32,19 @@
 
 # Resolucion de Problemas
 
+Ejercicios del tema 15
 
+![Ejercicos 15 1](https://user-images.githubusercontent.com/84397282/131599779-7062fc68-ec0b-4dd8-b136-d612b3c87c79.jpg)
+![Ejercicos 15 2](https://user-images.githubusercontent.com/84397282/131599780-eda42c4c-0a66-4a2b-8a71-3f7e1893d191.jpg)
+![Ejercicos 15 3](https://user-images.githubusercontent.com/84397282/131599781-77fc349a-1721-452f-9c64-f77ac0d03b37.jpg)
+![Ejercicos 15 4](https://user-images.githubusercontent.com/84397282/131599782-264b7084-691e-47d0-826a-e4fa6222730b.jpg)
+![Ejercicos 15 5](https://user-images.githubusercontent.com/84397282/131599783-ae2c8ada-ae69-450e-a16b-bbfc5622fa96.jpg)
+![Ejercicos 15 6](https://user-images.githubusercontent.com/84397282/131599784-f9c2d98f-c3c2-4b6d-81b7-164301d2c7b5.jpg)
+![Ejercicos 15 7](https://user-images.githubusercontent.com/84397282/131599786-abfcd311-512d-45ae-b32c-907a4893c7ff.jpg)
+![Ejercicos 15 8](https://user-images.githubusercontent.com/84397282/131599787-9bda2b3d-e752-4424-bdb2-360a6adb9da1.jpg)
+
+
+Ejercicios tema 16
 
 
 # Video
