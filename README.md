@@ -96,12 +96,11 @@ Ejercicios tema 16
 ![Ejercicos 16 4](https://user-images.githubusercontent.com/84397282/131600517-4f5557a0-05db-4ee5-93d3-16d112e63232.jpg)
 ![Ejercicos 16 5](https://user-images.githubusercontent.com/84397282/131600518-25810bc0-1b2f-4252-8b64-1e0782c1ba51.jpg)
 
+![](https://user-images.githubusercontent.com/84998005/131660023-8d07c312-137a-42ea-ad79-cc2bc94b4d72.png)
 
+![](https://user-images.githubusercontent.com/84998005/131660021-cb0ab517-8fd3-4a43-8f28-4c5ef04e4a9c.png)
 
-
-
-
-
+![](https://user-images.githubusercontent.com/84998005/131660016-3c41ad64-e7ab-4916-bf3d-280e34cc4adc.png)
 
 ![](https://user-images.githubusercontent.com/84998013/131602922-225db8aa-7583-4bd0-9c0d-80c5f239fbd4.png)
 
